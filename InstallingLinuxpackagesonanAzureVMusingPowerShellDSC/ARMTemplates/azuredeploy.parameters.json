@@ -3,9 +3,13 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "vmName": {
+            "value": "dscforlinuxvm01"
         },
+        "username": {
+            "value": "serveradmin"
         },
         "StorageAccountName": {
+            "value": "ubuntuvm01sa"
         }
     }
 }
